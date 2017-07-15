@@ -1,7 +1,7 @@
 {
   "name": "juan",
   "version": "1.0.0",
-  "description": "reac",
+  "description": "react",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --content-base public/ --port 4000 --inline --hot"
